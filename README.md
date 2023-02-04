@@ -2,13 +2,13 @@
 
 Year I - Python - Project
 
-What is it ?
+<h2>What is it ?</h2>
 
 The project "Save the Christmas" is an app designed to help Santa
 Claus process every letter, keep track of every toy the elves make and
 tracks every address he needs to get to.
 
-How was it designed ?
+<h2>How was it designed ?</h2>
 
 The back-end of the project stack was designed in Python, and
 achieved the primary tasks listed below, while the "User-interface" was
@@ -19,6 +19,8 @@ around the globe).
 
 The program was designed by 3 large departments and a special 4th
 that go as follows:
+
+<h2> How we devide the workflow ? </h2>
 
 The "Reading letters" department had the role of reading the
 received letters and forwarding only data that can be used for
@@ -37,7 +39,7 @@ The "Web" department which would ensure a user-friendly ,
 the front end - webpage interface which each child could use to
 view if their gifts were sent and track Santa.
 
-What were my attributions?
+<h2> What were my attributions? </h2>
 
 I was the project lead for the "Gift Sharing" department. I provided:
 -> Scheduling for brainstorming sessions over dividing activites to
